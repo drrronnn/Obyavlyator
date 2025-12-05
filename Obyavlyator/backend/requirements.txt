@@ -1,0 +1,58 @@
+# Парсер и HTTP-запросы
+cloudscraper
+beautifulsoup4
+transliterate
+pymorphy2
+undetected-chromedriver
+selenium
+
+# FastAPI + сервер
+fastapi
+uvicorn[standard]
+websockets
+
+# Аутентификация и безопасность
+python-jose[cryptography]
+bcrypt==4.1.2
+passlib==1.7.4
+email-validator
+python-dotenv
+
+# База данных
+sqlalchemy
+
+pydantic
+pydantic-settings
+
+rapidfuzz
+apscheduler==3.11.0
+
+# Redis и Celery
+redis
+fakeredis  # Для тестирования без Docker
+celery
+eventlet  # Для работы Celery на Windows
+
+# Email
+fastapi-mail==1.4.1
+
+python-multipart
+
+# HTTP client
+httpx
+
+beautifulsoup4==4.13.4
+curl_cffi
+loguru==0.7.0
+openpyxl==3.1.5
+playwright==1.52.0
+playwright-stealth==2.0.0
+pyexcel==0.7.1
+pyexcel-io==0.6.7
+pyexcel-xlsx==0.6.0
+PyYAML==6.0.2
+requests==2.32.3
+tomli_w==1.2.0
+tzdata==2025.2
+tzlocal==5.3.1
+flet==0.24.1

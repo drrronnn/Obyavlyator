@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@config "../../tailwind.config.js";
+
+* {
+  font-family: "Montserrat", sans-serif;
+  font-family: 300
+}
+
